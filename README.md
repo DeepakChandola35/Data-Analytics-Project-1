@@ -3,7 +3,7 @@
 ● Objective: The analysis primarily investigates factors influencing customer churn,
 particularly focusing on payment methods and contract types.
 ● Key Insights:
-○ Contract Type: Customers on month-to-month contracts show a higher tendency
+○ Contract Type: Customers on month-to-month contracts show a higher tendency'
 to churn compared to those on yearly or bi-annual contracts. This suggests that
 long-term contracts may improve customer retention.
 ○ Payment Methods: A significant proportion of customers using electronic checks
